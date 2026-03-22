@@ -23,7 +23,5 @@ Tienes dos formas de leerlo:
 * **Desarrollo y Lore:** Alex
 * **Maquetación:** HTML5 + CSS3
 * **Motor del prototipo original:** Godot 4
-* **Assets:** Kings and Pigs
-
 ---
 *"Enfrentar la pesadilla es el primer paso para disfrutar de la vigilia."*
